@@ -7,7 +7,7 @@ commitMessages:
   commitAuthorEmail: "91714349+minmoydutta@users.noreply.github.com"
 
 workflowSchedule:
-  graphs: "*1 */1 * * *"
+  graphs: "1 */1 * * *"
   responseTime: "1 */1 * * *"
   staticSite: "0 1 * * *"
   summary: "*1 */1 * * *"
